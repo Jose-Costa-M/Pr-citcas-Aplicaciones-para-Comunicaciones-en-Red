@@ -1,6 +1,3 @@
-## Introducción
-En este repositorio se encontrarán los códigos realizados en Python para la materia de Redes 2 en ESCOM
-
 ## Práctica 1. Buscaminas usando Cliente-Servidor con Sockets de Flujo Bloqueante
 
 <p align="center">
