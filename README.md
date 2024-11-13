@@ -1,7 +1,7 @@
 ## Práctica 1. Buscaminas usando Cliente-Servidor con Sockets de Flujo Bloqueante
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/7dc2160e-6b2e-4ee2-9d06-7a92ca62de5d)" alt="GUI del Cliente">
+  <img src="https://drive.google.com/file/d/1rSZldfi_T3yQTxCzIw2S1-C1rYM6EUDW/view?usp=drive_link" alt="GUI del Cliente">
 </p>
 
 
